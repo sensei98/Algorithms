@@ -1,0 +1,38 @@
+C:\Users\gerwin\Documents\Visual Studio 2012\Projects\ShortestPath\DijkstraStudent\bin\Debug\DijkstraStudent.exe.config
+C:\Users\gerwin\Documents\Visual Studio 2012\Projects\ShortestPath\DijkstraStudent\bin\Debug\DijkstraStudent.exe
+C:\Users\gerwin\Documents\Visual Studio 2012\Projects\ShortestPath\DijkstraStudent\bin\Debug\DijkstraStudent.pdb
+C:\Users\gerwin\Documents\Visual Studio 2012\Projects\ShortestPath\DijkstraStudent\obj\Debug\DijkstraStudent.DijkstraForm.resources
+C:\Users\gerwin\Documents\Visual Studio 2012\Projects\ShortestPath\DijkstraStudent\obj\Debug\DijkstraStudent.Properties.Resources.resources
+C:\Users\gerwin\Documents\Visual Studio 2012\Projects\ShortestPath\DijkstraStudent\obj\Debug\DijkstraStudent.csproj.GenerateResource.Cache
+C:\Users\gerwin\Documents\Visual Studio 2012\Projects\ShortestPath\DijkstraStudent\obj\Debug\DijkstraStudent.exe
+C:\Users\gerwin\Documents\Visual Studio 2012\Projects\ShortestPath\DijkstraStudent\obj\Debug\DijkstraStudent.pdb
+C:\Users\gerwin\Documents\Visual Studio 2012\Projects\WiskundePraktijk\ShortestPath\DijkstraStudent\bin\Debug\DijkstraStudent.exe.config
+C:\Users\gerwin\Documents\Visual Studio 2012\Projects\WiskundePraktijk\ShortestPath\DijkstraStudent\obj\Debug\DijkstraStudent.exe
+C:\Users\gerwin\Documents\Visual Studio 2012\Projects\WiskundePraktijk\ShortestPath\DijkstraStudent\obj\Debug\DijkstraStudent.pdb
+C:\Users\gerwin\Documents\Visual Studio 2012\Projects\WiskundePraktijk\ShortestPath\DijkstraStudent\bin\Debug\DijkstraStudent.exe
+C:\Users\gerwin\Documents\Visual Studio 2012\Projects\WiskundePraktijk\ShortestPath\DijkstraStudent\bin\Debug\DijkstraStudent.pdb
+C:\Users\gerwin\Documents\Visual Studio 2012\Projects\WiskundePraktijk\ShortestPath\DijkstraStudent\obj\Debug\DijkstraStudent.csprojResolveAssemblyReference.cache
+C:\Users\gerwin\Documents\Visual Studio 2012\Projects\WiskundePraktijk\ShortestPath\DijkstraStudent\obj\Debug\DijkstraStudent.DijkstraForm.resources
+C:\Users\gerwin\Documents\Visual Studio 2012\Projects\WiskundePraktijk\ShortestPath\DijkstraStudent\obj\Debug\DijkstraStudent.Properties.Resources.resources
+C:\Users\gerwin\Documents\Visual Studio 2012\Projects\WiskundePraktijk\ShortestPath\DijkstraStudent\obj\Debug\DijkstraStudent.csproj.GenerateResource.Cache
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\WiskundePraktijk\ShortestPath\DijkstraStudent\obj\Debug\DijkstraStudent.DijkstraForm.resources
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\WiskundePraktijk\ShortestPath\DijkstraStudent\obj\Debug\DijkstraStudent.Properties.Resources.resources
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\WiskundePraktijk\ShortestPath\DijkstraStudent\obj\Debug\DijkstraStudent.csproj.GenerateResource.cache
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\WiskundePraktijk\ShortestPath\DijkstraStudent\obj\Debug\DijkstraStudent.csproj.CoreCompileInputs.cache
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\WiskundePraktijk\ShortestPath\DijkstraStudent\obj\Debug\DijkstraStudent.exe
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\WiskundePraktijk\ShortestPath\DijkstraStudent\obj\Debug\DijkstraStudent.pdb
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\WiskundePraktijk\ShortestPath\DijkstraStudent\bin\Debug\DijkstraStudent.exe.config
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\WiskundePraktijk\ShortestPath\DijkstraStudent\bin\Debug\DijkstraStudent.exe
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\WiskundePraktijk\ShortestPath\DijkstraStudent\bin\Debug\DijkstraStudent.pdb
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\WiskundePraktijk\ShortestPath\DijkstraStudent\obj\Debug\DijkstraStudent.csprojAssemblyReference.cache
+C:\Users\sensei98\Downloads\DijkstraStudent\DijkstraStudent\obj\Debug\DijkstraStudent.exe
+C:\Users\sensei98\Downloads\DijkstraStudent\DijkstraStudent\obj\Debug\DijkstraStudent.pdb
+C:\Users\sensei98\Downloads\DijkstraStudent\DijkstraStudent\bin\Debug\DijkstraStudent.exe.config
+C:\Users\sensei98\Downloads\DijkstraStudent\DijkstraStudent\bin\Debug\DijkstraStudent.exe
+C:\Users\sensei98\Downloads\DijkstraStudent\DijkstraStudent\bin\Debug\DijkstraStudent.pdb
+C:\Users\sensei98\Downloads\DijkstraStudent\DijkstraStudent\obj\Debug\DijkstraStudent.csproj.AssemblyReference.cache
+C:\Users\sensei98\Downloads\DijkstraStudent\DijkstraStudent\obj\Debug\DijkstraStudent.csproj.SuggestedBindingRedirects.cache
+C:\Users\sensei98\Downloads\DijkstraStudent\DijkstraStudent\obj\Debug\DijkstraStudent.DijkstraForm.resources
+C:\Users\sensei98\Downloads\DijkstraStudent\DijkstraStudent\obj\Debug\DijkstraStudent.Properties.Resources.resources
+C:\Users\sensei98\Downloads\DijkstraStudent\DijkstraStudent\obj\Debug\DijkstraStudent.csproj.GenerateResource.cache
+C:\Users\sensei98\Downloads\DijkstraStudent\DijkstraStudent\obj\Debug\DijkstraStudent.csproj.CoreCompileInputs.cache
